@@ -1,5 +1,4 @@
-Lista de cursos gratuitos
+### Lista de cursos gratuitos
 
-- Curso grátis de Bootstrap 3
+**Curso grátis de Bootstrap 3**
 http://youtube.com/cursobootstrap
-
